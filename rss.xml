@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[e-metadata]]></title>
         <description><![CDATA[e-metadata]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.e-metadata.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 18:12:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Mar 2016 19:16:51 GMT</lastBuildDate>
+        <atom:link href="http://www.e-metadata.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hugo Boss : Omnichannel blue print for seamless Brand - and Shopping]]></title>
+            <description><![CDATA[<article><h1>Hugo Boss : Omnichannel blue print for seamless Brand - and Shopping</h1><p>HUGO BOSS today announced to expands its digital activities to provide Consumers seamless Brand- & Shopping experiences.</p><img src="https://media.licdn.com/mpr/mpr/jc/AAEAAQAAAAAAAAYCAAAAJDJiODhlODc0LWVjNzEtNDY5OC1hYjI3LTM2NTkzYzQyMGRkYQ.jpg"></article>]]></description>
+            <link>https://www.linkedin.com/pulse/hugo-boss-global-omnichannel-blue-print-seamless-brand-rudi-geiger?trk=v-feed&amp;trk=v-feed</link>
+            <guid isPermaLink="false">ea781d5e-24c2-485b-9ef6-377d802cdfb9</guid>
+            <pubDate>Thu, 17 Mar 2016 19:16:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0084d93a-9e76-43ec-bfbe-7dba2ed75802.jpg">]]></description>
-            <link>undefinedwelcome-to-e-metadata/index.html</link>
+            <link>http://www.e-metadata.eu/welcome-to-e-metadata/index.html</link>
             <guid isPermaLink="false">3a9e6081-31fd-4c11-8314-5855fcd0baa3</guid>
             <pubDate>Thu, 17 Mar 2016 18:12:26 GMT</pubDate>
         </item>
