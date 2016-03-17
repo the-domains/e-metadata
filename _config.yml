@@ -14,15 +14,15 @@ collections:
       path: '/:title/'
 color:
   saturation: 0.5649136954452842
-  brandStrength: 0.6039426
-  rhythmicContrast: 0.4991087696980685
+  brandStrength: 0
+  lightness: 0.566262876149267
   brandColors:
     - '#030303'
     - '#b4ddef'
     - '#0e2336'
     - '#006ea3'
     - '#5b98c4'
-  lightness: 0.566262876149267
+  rhythmicContrast: 0.4991087696980685
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: e-metadata
 favicon: null
+name: e-metadata
 opengraph:
   image: null
   type: null
