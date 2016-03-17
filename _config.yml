@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: e-metadata
 favicon: null
+name: e-metadata
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0
-layout_spectrum: 0.25081
+layout_spectrum: 1
