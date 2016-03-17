@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[e-metadata]]></title>
+        <description><![CDATA[e-metadata]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 17 Mar 2016 19:36:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Die Konversionsrate kennt viele Wahrheiten - Hier sind die Wichtigsten]]></title>
+            <description><![CDATA[<article><h1>Die Konversionsrate kennt viele Wahrheiten - Hier sind die Wichtigsten</h1><p>Es ist eine für manchen Händler frustrierende Zahl, die da immer wieder über die Conversion Rate von Amazon durch die Welt geistert. Bei Kunden, die Amazon.com regelmäßiger besuchen, liege sie bei rund 50 Prozent. Der für den deutschen Handel dabei gerne kolportierte Durchschnittswert von 3 Prozent wirkt da nachgerade kläglich.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4823ff6a58be7fa62ccc2a04109aa8704e237933.jpg"></article>]]></description>
+            <link>http://etailment.de/thema/marketing/Die-Konversionrate-kennt-viele-Wahrheiten---Hier-sind-die-wichtigsten-3928</link>
+            <guid isPermaLink="false">49b4597a-959f-4a51-ba43-f070f25c98b7</guid>
+            <pubDate>Thu, 17 Mar 2016 19:36:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
