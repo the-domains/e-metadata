@@ -4,7 +4,7 @@
         <description><![CDATA[e-metadata]]></description>
         <link>http://www.e-metadata.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 22:08:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2016 22:10:42 GMT</lastBuildDate>
         <atom:link href="http://www.e-metadata.eu/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Top Digital Transformation Priorities For 2016 - Part 1]]></title>
@@ -61,6 +61,13 @@
             <link>http://etailment.de/thema/marketing/Die-Konversionrate-kennt-viele-Wahrheiten---Hier-sind-die-wichtigsten-3928</link>
             <guid isPermaLink="false">49b4597a-959f-4a51-ba43-f070f25c98b7</guid>
             <pubDate>Thu, 17 Mar 2016 19:36:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[10 Reasons Why You Should Choose Google Analytics as Your Website Analytics Software]]></title>
+            <description><![CDATA[<article><h1>10 Reasons Why You Should Choose Google Analytics as Your Website Analytics Software</h1><p>Google Analytics is the best and the most popular digital analytics software in the world. Here are 10 good reasons why you should prefer Google Analytics over other similar applications. IT giants like Google, IBM, and Adobe have developed their own digital analytics applications.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/33ba221d58ded9eecc8fb4d83938d7c7aecf9363.jpg"></article>]]></description>
+            <link>https://www.logit.hr/blog/10-reasons-why-you-should-choose-google-analytics/?utm_source=ln&amp;utm_medium=social&amp;utm_content=10reasonsGA&amp;utm_campaign=GoogleAnalyticsIntegrationService</link>
+            <guid isPermaLink="false">24b3e2c9-9be5-47f5-ab57-15d71781f334</guid>
+            <pubDate>Thu, 17 Mar 2016 22:10:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
