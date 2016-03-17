@@ -14,7 +14,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: E-commerce news and technical seo guidelines
+title: e-commerce news and technical seo guidelines
 cta:
   domain: null
   bucket: null
