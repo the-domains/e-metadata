@@ -12,10 +12,10 @@ related:
     thumbnail_width: 1200
     url: 'http://sloanreview.mit.edu/projects/strategy-drives-digital-transformation/'
 publisher:
-  favicon: 'https://static.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico'
-  url: 'https://www.linkedin.com'
   name: LinkedIn Pulse
   domain: www.linkedin.com
+  url: 'https://www.linkedin.com'
+  favicon: 'https://static.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico'
 keywords:
   - digital
   - customer
@@ -32,14 +32,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://www.linkedin.com/pulse/top-digital-transformation-priorities-2016-part-1-charlene-li?trk=v-feed'
 title: The Top Digital Transformation Priorities For 2016 - Part 1
-datePublished: '2016-03-17T19:36:37.197Z'
-dateModified: '2016-03-17T19:31:01.471Z'
-starred: true
+datePublished: '2016-03-17T22:56:14.964Z'
+dateModified: '2016-03-17T22:13:37.386Z'
+starred: false
 sourcePath: _posts/2016-03-17-the-top-digital-transformation-priorities-for-2016-part-1.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
