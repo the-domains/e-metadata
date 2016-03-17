@@ -1,29 +1,41 @@
-name: e-metadata
-favicon: null
-layout_spectrum: 0.99265
-typography_spectrum: 0
-title: e-metadata
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.99265
+title: e-metadata
+cta:
+  bucket: null
+  version: null
+  domain: null
 color:
+  saturation: 0.5649136954452842
+  brandStrength: 0.125
+  rhythmicContrast: 0.4991087696980685
   brandColors:
     - '#030303'
     - '#b4ddef'
     - '#0e2336'
     - '#006ea3'
     - '#5b98c4'
-  brandStrength: 0.125
   lightness: 0.566262876149267
-  saturation: 0.5649136954452842
-  rhythmicContrast: 0.4991087696980685
 purpose: []
+favicon: null
+name: e-metadata
+typography_spectrum: 0
