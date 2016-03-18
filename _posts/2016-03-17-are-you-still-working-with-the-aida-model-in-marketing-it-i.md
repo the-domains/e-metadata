@@ -17,8 +17,8 @@ keywords:
   - attention
   - action
 description: 'It is one of the most quoted and most used Marketing strategies or at least models in the world: the AIDA model; referring to Attention - Interest - Desire - Action . For all of us we have been thinking about these steps in our daily work, in our marketing campaigns and in talks with other marketing experts when explaining our approach to the market.'
-datePublished: '2016-03-17T22:52:22.866Z'
-dateModified: '2016-03-17T22:52:13.658Z'
+datePublished: '2016-03-18T10:08:05.249Z'
+dateModified: '2016-03-17T22:58:41.929Z'
 author:
   - name: Ralf Haberich
     url: 'https://www.linkedin.com/in/ralfhaberich?trk=pulse-det-athr_prof-art_hdr'
