@@ -1,4 +1,23 @@
 ---
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
+keywords:
+  - content
+  - strategy
+  - organization
+  - draper
+  - narrative
+  - '2016'
+  - linkedin
+  - strategists
+  - channels
+  - likely
+description: 'In this series, professionals predict the ideas and trends that will shape 2016. Read the posts here, then write your own (use #BigIdeas2016 in your piece).'
+datePublished: '2016-03-18T01:34:15.093Z'
+dateModified: '2016-03-17T22:53:24.602Z'
 author:
   - name: Jeffrey Harvey
     url: 'https://www.linkedin.com/in/jeffharveyprofile?trk=pulse-det-athr_prof-art_hdr'
@@ -18,34 +37,17 @@ related:
     thumbnail_height: 338
     thumbnail_url: 'http://www.contentmarketingworld.com/wp-content/uploads/2015/10/CMWorld16_Logo_rev.png'
     thumbnail_width: 792
-publisher:
-  url: 'https://www.linkedin.com'
-  name: LinkedIn Pulse
-  favicon: 'https://static.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico'
-  domain: www.linkedin.com
-keywords:
-  - content
-  - strategy
-  - organization
-  - draper
-  - narrative
-  - '2016'
-  - linkedin
-  - strategists
-  - channels
-  - likely
-description: 'In this series, professionals predict the ideas and trends that will shape 2016. Read the posts here, then write your own (use #BigIdeas2016 in your piece).'
-inLanguage: en
 app_links: []
-isBasedOnUrl: 'https://www.linkedin.com/pulse/bigideas2016-content-strategy-setting-narrative-table-harvey?trk=v-feed'
 title: '#BigIdeas2016: Content Strategy - Setting the Narrative Table'
-datePublished: '2016-03-17T22:41:15.752Z'
-dateModified: '2016-03-17T22:39:02.298Z'
 sourcePath: _posts/2016-03-17-bigideas2016-content-strategy-setting-the-narrative-tabl.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: LinkedIn Pulse
+  domain: www.linkedin.com
+  url: 'https://www.linkedin.com'
+  favicon: 'https://static.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico'
+url: bigideas2016-content-strategy-setting-the-narrative-tabl/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
