@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  favicon: 'https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/favicon.ico'
-  url: 'http://techcrunch.com'
   name: TechCrunch
   domain: techcrunch.com
+  url: 'http://techcrunch.com'
+  favicon: 'https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/favicon.ico'
 keywords:
   - google
   - dynamics
@@ -29,14 +29,15 @@ app_links:
     type: android
 isBasedOnUrl: 'http://techcrunch.com/2016/03/17/google-could-be-selling-boston-dynamics-because-even-google-thinks-these-robots-are-terrifying/'
 title: Google could be selling Boston Dynamics because even Google thinks these robots are terrifying
-datePublished: '2016-03-17T19:36:37.170Z'
-dateModified: '2016-03-17T19:31:01.802Z'
-starred: true
+datePublished: '2016-03-18T10:07:42.202Z'
+dateModified: '2016-03-17T22:13:40.649Z'
+starred: false
 sourcePath: _posts/2016-03-17-google-could-be-selling-boston-dynamics-because-even-google.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
