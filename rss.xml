@@ -4,8 +4,22 @@
         <description><![CDATA[e-commerce news and technical seo guidelines]]></description>
         <link>http://www.e-metadata.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 09:03:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2016 08:18:19 GMT</lastBuildDate>
         <atom:link href="http://www.e-metadata.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How real businesses are using machine learning]]></title>
+            <description><![CDATA[<article><h1>How real businesses are using machine learning</h1><p>There is no question that machine learning is at the top of the hype curve. And, of course, the backlash is already in full force: I've heard that old joke "Machine learning is like teenage sex; everyone is talking about it, no one is actually doing it" about 20 times in the past week alone.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a893a602a1b5d5bebece43896c975fb89610c724.jpg"></article>]]></description>
+            <link>http://techcrunch.com/2016/03/19/how-real-businesses-are-using-machine-learning/</link>
+            <guid isPermaLink="false">608858da-8039-4409-9704-4201eee358fb</guid>
+            <pubDate>Mon, 21 Mar 2016 08:17:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Your Data Footprint Is Affecting Your Life In Ways You Can't Even Imagine]]></title>
+            <description><![CDATA[<article><h1>Your Data Footprint Is Affecting Your Life In Ways You Can't Even Imagine</h1><p>Imagine you're moving apartments and shopping for new furniture at a couple of stores. You see a couch you like, but you're not sure, so you leave thinking maybe you'll return another day. But that couch doesn't take well to rejection.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/09bb2be8685304f0e85681f34c8259d0b419d716.jpg"></article>]]></description>
+            <link>http://www.fastcoexist.com/3057514/your-data-footprint-is-affecting-your-life-in-ways-you-cant-even-imagine?utm_content=buffer75d50&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer</link>
+            <guid isPermaLink="false">5bdee6d4-3f66-4a8f-89c8-f52275fa6848</guid>
+            <pubDate>Sun, 20 Mar 2016 09:03:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Is Your SEO Strategy Future-Proof? Here are 5 Ways to Tell]]></title>
             <description><![CDATA[<article><h1>Is Your SEO Strategy Future-Proof? Here are 5 Ways to Tell</h1><p>When it comes to predicting the future, the SEO industry is a speculative, sometimes tumultuous territory. Search engines, like most other technologies, evolve rapidly, and consumer preferences evolve in tandem.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7d1f9648afe80d97fc3a8d336fdec601b4f29af3.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://searchengineland.com/google-image-search-launches-colored-filter-buttons-245431?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=feed-main</link>
             <guid isPermaLink="false">57707875-58b5-4a49-9a3f-f928e6793fd6</guid>
             <pubDate>Fri, 18 Mar 2016 20:06:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Are you still working with the AIDA Model in Marketing? It is from 1898. Rethink now.]]></title>
-            <description><![CDATA[<article><h1>Are you still working with the AIDA Model in Marketing? It is from 1898. Rethink now.</h1><p>It is one of the most quoted and most used Marketing strategies or at least models in the world: the AIDA model; referring to Attention - Interest - Desire - Action . For all of us we have been thinking about these steps in our daily work, in our marketing campaigns and in talks with other marketing experts when explaining our approach to the market.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/29351cea7178238513e0916cb8cdfbf285d338be.jpg"></article>]]></description>
-            <link>https://www.linkedin.com/pulse/you-still-working-aida-model-marketing-from-1898-rethink-haberich?trk=v-feed</link>
-            <guid isPermaLink="false">92e7ae6d-84b4-4d28-bc8a-525caa296def</guid>
-            <pubDate>Fri, 18 Mar 2016 10:08:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google could be selling Boston Dynamics because even Google thinks these robots are terrifying]]></title>
-            <description><![CDATA[<article><h1>Google could be selling Boston Dynamics because even Google thinks these robots are terrifying</h1><p>Google's parent company Alphabet Inc. isn't happy with Boston Dynamics, its robotics subsidiary. According to a report from Bloomberg, Alphabet executives think that Boston Dynamics is unlikely to generate substantial revenue in the next few years and is hard to work with. Toyota or Amazon could be interested in acquiring Boston Dynamics for their manufacturing or warehouse operations.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f3d446ccbd867a8246abad2953000b080df0e864.jpg"></article>]]></description>
-            <link>http://techcrunch.com/2016/03/17/google-could-be-selling-boston-dynamics-because-even-google-thinks-these-robots-are-terrifying/</link>
-            <guid isPermaLink="false">9b9c2af7-3b01-4119-a9a6-756dc21601d5</guid>
-            <pubDate>Fri, 18 Mar 2016 10:07:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
