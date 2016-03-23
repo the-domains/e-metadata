@@ -1,23 +1,26 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://app.mhb.io'
-  name: Mhb
-  favicon: null
-  domain: app.mhb.io
+inFeed: false
+hasPage: true
+inNav: true
+inLanguage: null
+starred: false
 keywords: []
 description: "Building quality natural backlinks doesn't end at content creation. These twelve steps can help boost your content's visibility."
+datePublished: '2016-03-23T10:16:05.606Z'
+dateModified: '2016-03-23T10:14:17.965Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://app.mhb.io/e/oy1h/1'
 title: 12 Secrets to Building Natural Backlinks
-datePublished: '2016-03-23T10:03:44.975Z'
-dateModified: '2016-03-21T17:11:20.618Z'
 sourcePath: _posts/2016-03-23-12-secrets-to-building-natural-backlinks.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Mhb
+  domain: app.mhb.io
+  url: 'http://app.mhb.io'
+  favicon: null
+url: 12-secrets-to-building-natural-backlinks/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
