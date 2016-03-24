@@ -16,8 +16,8 @@ keywords:
   - channels
   - likely
 description: 'In this series, professionals predict the ideas and trends that will shape 2016. Read the posts here, then write your own (use #BigIdeas2016 in your piece).'
-datePublished: '2016-03-24T11:46:24.101Z'
-dateModified: '2016-03-24T11:43:04.098Z'
+datePublished: '2016-03-24T11:59:35.983Z'
+dateModified: '2016-03-24T11:59:34.026Z'
 author:
   - name: Jeffrey Harvey
     url: 'https://www.linkedin.com/in/jeffharveyprofile?trk=pulse-det-athr_prof-art_hdr'
