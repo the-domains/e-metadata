@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: "Building quality natural backlinks doesn't end at content creation. These twelve steps can help boost your content's visibility."
-datePublished: '2016-03-24T11:51:04.383Z'
-dateModified: '2016-03-24T11:46:16.196Z'
+datePublished: '2016-03-24T11:52:55.529Z'
+dateModified: '2016-03-24T11:52:52.994Z'
 author: []
 related: []
 app_links: []
