@@ -1,4 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://growthhackers.com/articles/content-marketing-in-e-commerce'
+inLanguage: en
+starred: false
+keywords:
+  - e-commerce
+  - content
+  - marketing
+  - inbound
+  - strategy
+  - necessity
+  - proven
+  - traffic
+  - landscape
+  - smart
+description: "Content marketing has been proven, time and time again, to be a necessity in today's e-commerce landscape. In fact, content marketing results in 55% higher website traffic and 97% more inbound links, while being the primary factor behind up to 50% of purchasing decisions. Not bad, right?"
+datePublished: '2016-03-25T09:44:54.681Z'
+dateModified: '2016-03-25T09:44:47.329Z'
 author: []
 related:
   - score: 0.759052217
@@ -15,34 +35,16 @@ related:
     thumbnail_height: 350
     thumbnail_url: 'http://www.toprankblog.com/wp-content/uploads/HIGH-STAKES-CONTENT-MARKETING.jpg'
     thumbnail_width: 600
-publisher:
-  url: 'http://growthhackers.com'
-  name: GrowthHackers
-  favicon: 'http://growthhackers.com/assets/favicon-8ae9c197ae35459a643e7f7ec89ffa95dc4acb383292a62557e9be3a4d1b94d6.ico'
-  domain: growthhackers.com
-keywords:
-  - e-commerce
-  - content
-  - marketing
-  - inbound
-  - strategy
-  - necessity
-  - proven
-  - traffic
-  - landscape
-  - smart
-description: "Content marketing has been proven, time and time again, to be a necessity in today's e-commerce landscape. In fact, content marketing results in 55% higher website traffic and 97% more inbound links, while being the primary factor behind up to 50% of purchasing decisions. Not bad, right?"
-inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://growthhackers.com/articles/content-marketing-in-e-commerce'
 title: Content Marketing In E-Commerce
-datePublished: '2016-03-25T09:41:17.098Z'
-dateModified: '2016-03-25T09:40:34.189Z'
 sourcePath: _posts/2016-03-25-content-marketing-in-e-commerce.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: GrowthHackers
+  domain: growthhackers.com
+  url: 'http://growthhackers.com'
+  favicon: 'http://growthhackers.com/assets/favicon-8ae9c197ae35459a643e7f7ec89ffa95dc4acb383292a62557e9be3a4d1b94d6.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
