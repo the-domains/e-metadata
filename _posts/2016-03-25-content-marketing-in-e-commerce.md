@@ -17,8 +17,8 @@ keywords:
   - landscape
   - smart
 description: "Content marketing has been proven, time and time again, to be a necessity in today's e-commerce landscape. In fact, content marketing results in 55% higher website traffic and 97% more inbound links, while being the primary factor behind up to 50% of purchasing decisions. Not bad, right?"
-datePublished: '2016-03-25T09:44:54.681Z'
-dateModified: '2016-03-25T09:44:47.329Z'
+datePublished: '2016-03-25T09:47:16.044Z'
+dateModified: '2016-03-25T09:46:14.359Z'
 author: []
 related:
   - score: 0.759052217
@@ -50,3 +50,5 @@ _type: MediaObject
 
 ---
 <article style=""><h1>Content Marketing In E-Commerce</h1><p>Content marketing has been proven, time and time again, to be a necessity in today's e-commerce landscape. In fact, content marketing results in 55% higher website traffic and 97% more inbound links, while being the primary factor behind up to 50% of purchasing decisions. Not bad, right?</p></article>
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eee0d609-6546-4fed-b859-d9cfe850ebf4.jpg)
