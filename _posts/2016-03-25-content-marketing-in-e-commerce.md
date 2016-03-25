@@ -1,6 +1,13 @@
 ---
 author: []
 related:
+  - score: 0.759052217
+    description: You will leave with all the materials you need to take a content marketing strategy back to your team - and - to implement a content marketing plan that will grow your business and inspire your audience.
+    title: 'Content Marketing World - 2016 Marketing Event, Conference'
+    url: 'http://www.contentmarketingworld.com'
+    thumbnail_height: 338
+    thumbnail_url: 'http://www.contentmarketingworld.com/wp-content/uploads/2015/10/CMWorld16_Logo_rev.png'
+    thumbnail_width: 792
   - score: 0.7275133729000001
     description: "The game of poker is filled with many complexities, opportunities and luck of the draw. Content marketing follows a similar theme and can lead to big winnings or high losses. If you want to be a key player in the content marketing game, it's time to up the ante."
     title: What You Need to Know About Playing High Stakes Content Marketing
@@ -27,10 +34,10 @@ keywords:
 description: "Content marketing has been proven, time and time again, to be a necessity in today's e-commerce landscape. In fact, content marketing results in 55% higher website traffic and 97% more inbound links, while being the primary factor behind up to 50% of purchasing decisions. Not bad, right?"
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://growthhackers.com/articles/content-marketing-in-e-commerce?utm_source=Twitter&utm_medium=GrowthHackers&utm_campaign=845'
+isBasedOnUrl: 'http://growthhackers.com/articles/content-marketing-in-e-commerce'
 title: Content Marketing In E-Commerce
-datePublished: '2016-03-25T09:05:57.883Z'
-dateModified: '2016-03-25T08:56:23.961Z'
+datePublished: '2016-03-25T09:41:17.098Z'
+dateModified: '2016-03-25T09:40:34.189Z'
 sourcePath: _posts/2016-03-25-content-marketing-in-e-commerce.md
 published: true
 inFeed: true
