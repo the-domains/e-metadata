@@ -4,8 +4,15 @@
         <description><![CDATA[e-commerce news and technical seo guidelines]]></description>
         <link>http://www.e-metadata.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 17:42:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2016 17:42:33 GMT</lastBuildDate>
         <atom:link href="http://www.e-metadata.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Facebook Pixel - Why You Have to Use It]]></title>
+            <description><![CDATA[<article><h1>The Facebook Pixel - Why You Have to Use It</h1><p>It's no secret that Facebook advertising is starting to become one of the best ways to reach, engage and grow your audience online. So maybe you've jumped on the train - boosting a post every once in awhile and maybe you even launched a follower campaign.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5070521c5181a147ace158c42ecddd83325a1540.jpg"></article>]]></description>
+            <link>https://www.v9seo.com/blog/2016/03/25/the-facebook-pixel-why-you-have-to-use-it/</link>
+            <guid isPermaLink="false">bc8b8249-f3e9-49c0-a9d6-83d52ec298ff</guid>
+            <pubDate>Sat, 26 Mar 2016 17:41:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How to Use Google Analytics to Improve Your Content Strategy]]></title>
             <description><![CDATA[<article><h1>How to Use Google Analytics to Improve Your Content Strategy</h1><p>There are so many ways to excel at content marketing. You could try to out-publish your competition, repurpose every new piece of content into other formats or create content types no one else does. Still, nothing beats the data-driven approach.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d37c69637c7f5e850434f1034da63ba55ed8815a.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Facebook Website Custom Audiences: A Definitive Guide for Remarketing</h1><p>For more on the upgraded Website Custom Audience pixel, read this post.] The power of Facebook ads is found within the targeting. I don't care how perfect the ad copy, imagery, bidding and optimization are, it's imperative that you target the people most likely to perform your desired action.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8abb0961a0a3d70d685cf015cb518d3da12435bc.png"></article>]]></description>
             <link>http://www.jonloomer.com/2015/09/11/facebook-website-custom-audiences-guide/?utm_campaign=sniply&amp;utm_medium=sniply&amp;utm_source=sniply</link>
             <guid isPermaLink="false">7d23b2b4-dc26-4cad-8635-eb6a73d79a22</guid>
-            <pubDate>Wed, 23 Mar 2016 10:38:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[An Algorithm Based Timeline is Coming to Instagram]]></title>
-            <description><![CDATA[<article><h1>An Algorithm Based Timeline is Coming to Instagram</h1><p>The Instagram timeline is about to change in a huge was as an algorithmic news feed is in testing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d0cfa4f758f01b212911c0a9ef187ff5ca7f6eba.jpg"></article>]]></description>
-            <link>http://snip.ly/b59bn</link>
-            <guid isPermaLink="false">07dd52a6-dde0-47bd-98c4-3bab05f81fb4</guid>
             <pubDate>Wed, 23 Mar 2016 10:38:00 GMT</pubDate>
         </item>
     </channel>
