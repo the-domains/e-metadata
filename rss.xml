@@ -4,8 +4,15 @@
         <description><![CDATA[e-commerce news and technical seo guidelines]]></description>
         <link>http://www.e-metadata.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 23:13:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2016 23:20:49 GMT</lastBuildDate>
         <atom:link href="http://www.e-metadata.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Google is building YouTube Connect, a livestreaming app to take on Periscope]]></title>
+            <description><![CDATA[<article><h1>Google is building YouTube Connect, a livestreaming app to take on Periscope</h1><p>Google has quietly been building a new livestreaming app called YouTube Connect, VentureBeat has learned. This service highlights the company's efforts to double down on live video while also placing it in a position to compete directly against Twitter's Periscope and Facebook Live. YouTube Connect will be available on both iOS and Android devices.</p><img src="http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/uploads/2016/03/2016-03-23-14.34.21-1-780x596.jpg"></article>]]></description>
+            <link>http://venturebeat.com/2016/03/23/google-is-building-youtube-connect-a-live-streaming-app-to-take-on-periscope/?utm_content=buffer09dc7&amp;utm_medium=social&amp;utm_source=linkedin.com&amp;utm_campaign=buffer</link>
+            <guid isPermaLink="false">7a2efd4f-4423-4088-9050-c67433a9efa7</guid>
+            <pubDate>Sat, 26 Mar 2016 23:19:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[5 Killer Conversion Optimization Techniques That Improve Your Rankings]]></title>
             <description><![CDATA[<article><h1>5 Killer Conversion Optimization Techniques That Improve Your Rankings</h1><p>Conversion optimization and SEO have a rather symbiotic relationship - they rely on each other in order to function. Just as no salesperson can perform their job without a steady flow of customers in their store, no call-to-action can drive conversions without traffic coming to the website.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9bb1f9646722563bf63dfc9a45512b92cb50f6dd.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://contented.pressly.com/spotlight/how-content-curation-can-position-your-entire-organization-as-thought-leaders-147171?ref=quuu&amp;utm_content=buffer6779f&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer</link>
             <guid isPermaLink="false">3afdd32d-f221-49df-8280-69845b5412ee</guid>
             <pubDate>Sat, 26 Mar 2016 13:51:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Content Marketing In E-Commerce]]></title>
-            <description><![CDATA[<article><h1>Content Marketing In E-Commerce</h1><p>Content marketing has been proven, time and time again, to be a necessity in today's e-commerce landscape. In fact, content marketing results in 55% higher website traffic and 97% more inbound links, while being the primary factor behind up to 50% of purchasing decisions. Not bad, right?</p></article>]]></description>
-            <link>http://growthhackers.com/articles/content-marketing-in-e-commerce</link>
-            <guid isPermaLink="false">4c171f58-8d40-4fa4-9a2c-a318dde839ac</guid>
-            <pubDate>Fri, 25 Mar 2016 09:47:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
