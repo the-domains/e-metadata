@@ -4,8 +4,15 @@
         <description><![CDATA[e-commerce news and technical seo guidelines]]></description>
         <link>http://www.e-metadata.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Mar 2016 16:43:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2016 16:43:25 GMT</lastBuildDate>
         <atom:link href="http://www.e-metadata.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA["Distributed Commerce": How Zalando Wants to Make Selling Fashion go Mobile]]></title>
+            <description><![CDATA[<article><h1>"Distributed Commerce": How Zalando Wants to Make Selling Fashion go Mobile</h1><p>Under the headline "Distributed Commerce", Zalando laid out how the company views the market context for mobile commerce and where Zalando's own position may be in the future. Here is the full capital markets day presentation on this topic. (PDF) Today's challenge: Zalando wants to provide the missing connections: This looks like the advertising services,...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/da9ab86f5e1b0fabafec276661ce63e28b125d7c.jpg"></article>]]></description>
+            <link>http://earlymoves.com/2016/03/23/distributed-commerce-how-zalando-wants-to-make-selling-fashion-go-mobile/?platform=hootsuite</link>
+            <guid isPermaLink="false">d0662efc-6fda-406c-a93b-3bad423b7fcb</guid>
+            <pubDate>Sun, 27 Mar 2016 16:42:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[7 Content Marketing Trends That Will Reign Supreme in 2016]]></title>
             <description><![CDATA[<article><h1>7 Content Marketing Trends That Will Reign Supreme in 2016</h1><p>Once upon a time, SEO and content marketing were separate concepts... They are quickly becoming one and the same. Google places value on high quality content and ranks your site based on the experience visitors have with your content. Gone are the days of aggressive link building and over night SEO strategies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/65ae5e1e713392ed09c78bf291674c9903bbc99c.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://moz.com/ugc/the-brand-halo-effect-does-brand-awareness-impact-organic-search-rankings-</link>
             <guid isPermaLink="false">8277907a-e65e-4270-b50f-212dd2c9b952</guid>
             <pubDate>Sat, 26 Mar 2016 17:41:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Amazon's Alexa is bringing intelligent assistance into the mainstream]]></title>
-            <description><![CDATA[<article><h1>How Amazon's Alexa is bringing intelligent assistance into the mainstream</h1><p>To paraphrase William Gibson, "The future is already here and, thanks to intelligent assistants (IA), it is more evenly distributed than ever before." Based on our spoken input, mobile personal assistants (like Siri and Google Now) answer questions, navigate routes, and organize meetings.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/864ccd01fbb5480ca2922c6dab6d136b672d0a16.png"></article>]]></description>
-            <link>http://venturebeat.com/2016/03/24/how-amazons-alexa-is-bringing-intelligent-assistance-into-the-mainstream/</link>
-            <guid isPermaLink="false">b9e60fb5-0ba1-4291-9c1c-aa0eb45974df</guid>
-            <pubDate>Sat, 26 Mar 2016 13:51:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
