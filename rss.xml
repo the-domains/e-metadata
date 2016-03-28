@@ -4,8 +4,15 @@
         <description><![CDATA[e-commerce news and technical seo guidelines]]></description>
         <link>http://www.e-metadata.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Mar 2016 16:43:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2016 00:55:32 GMT</lastBuildDate>
         <atom:link href="http://www.e-metadata.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><p>The buzz around digital marketing is still mostly about its potential. Converting that potential into revenue is still a work in progress for many consumer-facing companies.</p><img src="https://latestthinking.cognizant.com/content/dam/Cognizant_Dotcom/images/Digital-marketing-codex1672_IG.jpg"></article>]]></description>
+            <link>https://latestthinking.cognizant.com/perspectives/Digital-Marketing-Converting-Potential-into-Reality</link>
+            <guid isPermaLink="false">07f643ae-46e3-42ef-9d31-49d3ab6d56e4</guid>
+            <pubDate>Mon, 28 Mar 2016 00:55:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA["Distributed Commerce": How Zalando Wants to Make Selling Fashion go Mobile]]></title>
             <description><![CDATA[<article><h1>"Distributed Commerce": How Zalando Wants to Make Selling Fashion go Mobile</h1><p>Under the headline "Distributed Commerce", Zalando laid out how the company views the market context for mobile commerce and where Zalando's own position may be in the future. Here is the full capital markets day presentation on this topic. (PDF) Today's challenge: Zalando wants to provide the missing connections: This looks like the advertising services,...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/da9ab86f5e1b0fabafec276661ce63e28b125d7c.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Here's How to Combine Storytelling and Data to Produce Persuasive Content</h1><p>Ever thought about what really sticks out in your audience's minds? Hint: it's not the hard facts alone. Combining data and storytelling can make your brand's content stick out in a meaningful way; Nichole DeMeré shows you how in today's post.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/af7bec91fd0b9ee83b4e7154b16b59e1f9141a31.png"></article>]]></description>
             <link>https://moz.com/blog/heres-how-to-combine-storytelling-and-data-to-produce-persuasive-content</link>
             <guid isPermaLink="false">8d633c69-ddc8-40ce-b05f-941cf5f8b32b</guid>
-            <pubDate>Sat, 26 Mar 2016 17:41:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Brand Halo Effect: Does Brand Awareness Impact Organic Search Rankings?]]></title>
-            <description><![CDATA[<article><h1>The Brand Halo Effect: Does Brand Awareness Impact Organic Search Rankings?</h1><p>"The extent to which consumers are familiar with the qualities or image of a particular brand of goods or services." Oxford English Dictionary's definition of brand awareness How does anyone, not least a search engine, quantify brand awareness?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d49082f1574261d880d3c6caba9a994b0d1b6a74.png"></article>]]></description>
-            <link>https://moz.com/ugc/the-brand-halo-effect-does-brand-awareness-impact-organic-search-rankings-</link>
-            <guid isPermaLink="false">8277907a-e65e-4270-b50f-212dd2c9b952</guid>
             <pubDate>Sat, 26 Mar 2016 17:41:58 GMT</pubDate>
         </item>
     </channel>
