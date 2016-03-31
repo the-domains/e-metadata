@@ -4,8 +4,15 @@
         <description><![CDATA[e-commerce news and technical seo guidelines]]></description>
         <link>http://www.e-metadata.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 11:35:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2016 22:18:28 GMT</lastBuildDate>
         <atom:link href="http://www.e-metadata.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Comprehensive Guide to Tracking Offline Interactions in Google Analytics | Distilled]]></title>
+            <description><![CDATA[<article><h1>A Comprehensive Guide to Tracking Offline Interactions in Google Analytics | Distilled</h1><p>The trouble with web analytics is the possibility of it telling you lots about your website but nothing about your business. A browser is not the same thing as a customer, and yet we forget this in the data that we use to optimize our marketing efforts.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/28f15364ab56a3c8dc19be2b21edfbd9c2426800.png"></article>]]></description>
+            <link>https://www.distilled.net/resources/a-comprehensive-guide-to-tracking-offline-interactions-in-google-analytics/?utm_content=buffer32672&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer</link>
+            <guid isPermaLink="false">6ffa2f6b-64de-4b62-9897-5062276a18d6</guid>
+            <pubDate>Thu, 31 Mar 2016 22:17:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[5 Reasons Retailers are Plagued by Abandoned Carts]]></title>
             <description><![CDATA[<article><h1>5 Reasons Retailers are Plagued by Abandoned Carts</h1><p>It's not always your fault. Across the eCommerce spectrum shoppers abandon most of their carts, ditching as often as 80% of the time. Mobile shoppers are especially fickle. As the retail world continues to shift into the hypercompetitive, omnichannel future where customers compare prices and offers even while shopping in your stores, some abandonment is unavoidable.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f0192ebae9fe7fc37d8559b317ac0ca17a7a8773.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.linkedin.com/pulse/most-important-factor-content-marketing-carlos-montez-jr-?trk=v-feed</link>
             <guid isPermaLink="false">2d83bec0-09e7-48bc-a5bf-45e85b2962d5</guid>
             <pubDate>Sat, 26 Mar 2016 18:06:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Facebook Pixel - Why You Have to Use It]]></title>
-            <description><![CDATA[<article><h1>The Facebook Pixel - Why You Have to Use It</h1><p>It's no secret that Facebook advertising is starting to become one of the best ways to reach, engage and grow your audience online. So maybe you've jumped on the train - boosting a post every once in awhile and maybe you even launched a follower campaign.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5070521c5181a147ace158c42ecddd83325a1540.jpg"></article>]]></description>
-            <link>https://www.v9seo.com/blog/2016/03/25/the-facebook-pixel-why-you-have-to-use-it/</link>
-            <guid isPermaLink="false">bc8b8249-f3e9-49c0-a9d6-83d52ec298ff</guid>
-            <pubDate>Sat, 26 Mar 2016 17:41:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
