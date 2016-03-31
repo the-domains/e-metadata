@@ -4,8 +4,15 @@
         <description><![CDATA[e-commerce news and technical seo guidelines]]></description>
         <link>http://www.e-metadata.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 22:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2016 22:18:31 GMT</lastBuildDate>
         <atom:link href="http://www.e-metadata.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Business intelligence in the age of binge watching streaming content]]></title>
+            <description><![CDATA[<article><h1>Business intelligence in the age of binge watching streaming content</h1><p>In the age of Netflix and binge watching series' episodes, the media industry's traditional tools for measuring success are insufficient at best, and detrimental at worst. How can media and entertainment companies utilize business intelligence capabilities to handle the digital transformation sweeping the industry?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dba7326d136e88be5dbe1dba394e9a9a01d04229.jpg"></article>]]></description>
+            <link>http://www.ibmbigdatahub.com/blog/business-intelligence-age-binge-watching-streaming-content</link>
+            <guid isPermaLink="false">aa6504e6-c6d9-4c92-8fef-4c78bb7ab35a</guid>
+            <pubDate>Thu, 31 Mar 2016 22:17:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A Comprehensive Guide to Tracking Offline Interactions in Google Analytics | Distilled]]></title>
             <description><![CDATA[<article><h1>A Comprehensive Guide to Tracking Offline Interactions in Google Analytics | Distilled</h1><p>The trouble with web analytics is the possibility of it telling you lots about your website but nothing about your business. A browser is not the same thing as a customer, and yet we forget this in the data that we use to optimize our marketing efforts.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/28f15364ab56a3c8dc19be2b21edfbd9c2426800.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=IQovoot_ZUM</link>
             <guid isPermaLink="false">f7fa23e5-1a52-4c8b-8adf-66cb7e23962d</guid>
             <pubDate>Sat, 26 Mar 2016 21:10:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Most Important Factor in Content Marketing]]></title>
-            <description><![CDATA[<article><h1>The Most Important Factor in Content Marketing</h1><p>The importance of content marketing continues to grow in its usage and its measure. It speaks for a business and their ideals through multiple forms of media. From social media posts to emails and websites the content being created for words must also speak visually through photos and video.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c17bc0d2c5ef8c19c77d096225e5ea89e7c34091.jpg"></article>]]></description>
-            <link>https://www.linkedin.com/pulse/most-important-factor-content-marketing-carlos-montez-jr-?trk=v-feed</link>
-            <guid isPermaLink="false">2d83bec0-09e7-48bc-a5bf-45e85b2962d5</guid>
-            <pubDate>Sat, 26 Mar 2016 18:06:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
