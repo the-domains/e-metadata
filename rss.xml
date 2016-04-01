@@ -4,8 +4,15 @@
         <description><![CDATA[e-commerce news and technical seo guidelines]]></description>
         <link>http://www.e-metadata.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Apr 2016 06:03:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2016 06:03:35 GMT</lastBuildDate>
         <atom:link href="http://www.e-metadata.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A digital-strategy framework]]></title>
+            <description><![CDATA[<article><h1>A digital-strategy framework</h1><p>A new framework for making sense of digital disruption. Learn more: http://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/the-economic-essentials-of-digital-strategy</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=2emAuGBIRNE</link>
+            <guid isPermaLink="false">812802ee-4e9b-402e-886f-afb059dcda6b</guid>
+            <pubDate>Fri, 01 Apr 2016 06:02:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Die Falten des Gehirns - discover-neuro.de]]></title>
             <description><![CDATA[<article><h1>Die Falten des Gehirns - discover-neuro.de</h1><p>Wenn ich mich mit Marketern über die Möglichkeiten von Neuromarketing unterhalte, ist oft eine der ersten Fragen, die mir gestellt werden: "Und Sie können also messen, wo im Gehirn etwas passiert, wenn meine Kunden meine Werbung schauen?" Ja, kann ich. Mach ich aber nur selten.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f5f7b4cea3b36e808adc5604133b81b849f16cf.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.jeffbullas.stfi.re/2016/02/18/7-content-marketing-trends-will-reign-supreme-2016/?sf=lxyozb</link>
             <guid isPermaLink="false">80629a6d-dce9-468c-a4e4-87b9899a1c0d</guid>
             <pubDate>Sun, 27 Mar 2016 16:42:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google is building YouTube Connect, a livestreaming app to take on Periscope]]></title>
-            <description><![CDATA[<article><h1>Google is building YouTube Connect, a livestreaming app to take on Periscope</h1><p>Google has quietly been building a new livestreaming app called YouTube Connect, VentureBeat has learned. This service highlights the company's efforts to double down on live video while also placing it in a position to compete directly against Twitter's Periscope and Facebook Live. YouTube Connect will be available on both iOS and Android devices.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c2acda53fb297f714f11ee81e379e76d5abf5bfa.jpg"></article>]]></description>
-            <link>http://venturebeat.com/2016/03/23/google-is-building-youtube-connect-a-live-streaming-app-to-take-on-periscope/?utm_content=buffer09dc7&amp;utm_medium=social&amp;utm_source=linkedin.com&amp;utm_campaign=buffer</link>
-            <guid isPermaLink="false">7a2efd4f-4423-4088-9050-c67433a9efa7</guid>
-            <pubDate>Sat, 26 Mar 2016 23:19:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
