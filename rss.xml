@@ -4,8 +4,15 @@
         <description><![CDATA[e-commerce news and technical seo guidelines]]></description>
         <link>http://www.e-metadata.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 22:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2016 06:03:02 GMT</lastBuildDate>
         <atom:link href="http://www.e-metadata.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Die Falten des Gehirns - discover-neuro.de]]></title>
+            <description><![CDATA[<article><h1>Die Falten des Gehirns - discover-neuro.de</h1><p>Wenn ich mich mit Marketern über die Möglichkeiten von Neuromarketing unterhalte, ist oft eine der ersten Fragen, die mir gestellt werden: "Und Sie können also messen, wo im Gehirn etwas passiert, wenn meine Kunden meine Werbung schauen?" Ja, kann ich. Mach ich aber nur selten.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f5f7b4cea3b36e808adc5604133b81b849f16cf.jpg"></article>]]></description>
+            <link>http://discover-neuro.de/die-falten-des-gehirns/</link>
+            <guid isPermaLink="false">03f7c47e-74ca-4844-8355-3bc9c890990d</guid>
+            <pubDate>Fri, 01 Apr 2016 06:02:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Customer Experience & Omni-Channel Marketing]]></title>
             <description><![CDATA[<article><h1>Customer Experience & Omni-Channel Marketing</h1><p>In today's world, the customer experience extends beyond the walls of a brick and mortar store. Customers engage with your brand through content that's spread across multiple channels and accessed by multiple devices. And with so many possible touch points, it's becoming increasingly important for brands to ensure consistency throughout-especially for their millennial audience.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/30fb470d9991b6b2e734850a51b4db2b594c4ade.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://venturebeat.com/2016/03/23/google-is-building-youtube-connect-a-live-streaming-app-to-take-on-periscope/?utm_content=buffer09dc7&amp;utm_medium=social&amp;utm_source=linkedin.com&amp;utm_campaign=buffer</link>
             <guid isPermaLink="false">7a2efd4f-4423-4088-9050-c67433a9efa7</guid>
             <pubDate>Sat, 26 Mar 2016 23:19:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[5 Killer Conversion Optimization Techniques That Improve Your Rankings]]></title>
-            <description><![CDATA[<article><h1>5 Killer Conversion Optimization Techniques That Improve Your Rankings</h1><p>Conversion optimization and SEO have a rather symbiotic relationship - they rely on each other in order to function. Just as no salesperson can perform their job without a steady flow of customers in their store, no call-to-action can drive conversions without traffic coming to the website.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9bb1f9646722563bf63dfc9a45512b92cb50f6dd.jpg"></article>]]></description>
-            <link>https://blog.kissmetrics.com/conversion-optimization-techniques-to-improve-rankings/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+KISSmetrics+%28KISSmetrics+Marketing+Blog%29</link>
-            <guid isPermaLink="false">1c401df7-7233-415d-a207-b963612b5468</guid>
-            <pubDate>Sat, 26 Mar 2016 23:13:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
