@@ -4,8 +4,15 @@
         <description><![CDATA[e-commerce news and technical seo guidelines]]></description>
         <link>http://www.e-metadata.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 05:53:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2016 11:01:54 GMT</lastBuildDate>
         <atom:link href="http://www.e-metadata.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Data-driven storytelling: the intersection of numbers and narrative]]></title>
+            <description><![CDATA[<article><h1>Data-driven storytelling: the intersection of numbers and narrative</h1><p>Storytelling is a fundamentally important marketing discipline. Unfortunately, it is also one of the most overused buzzwords in our industry. Pundits use "storytelling" to refer to everything from anecdotes and case studies to persona-based marketing. To find a storytelling model that actually refers to the science of creating stories, marketers should consider a model based on Joseph Campbell's " Hero's Journey."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e2e4244b2b4afe396afe70d914d9c93390feba01.jpg"></article>]]></description>
+            <link>http://marketingland.com/data-driven-storytelling-intersection-numbers-narrative-170859</link>
+            <guid isPermaLink="false">19dad956-034b-45d5-ae6d-aedbd2bf3185</guid>
+            <pubDate>Thu, 07 Apr 2016 11:01:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Digitization in Aftermarket Service - Opportunities for Service and through Service]]></title>
             <description><![CDATA[<article><h1>Digitization in Aftermarket Service - Opportunities for Service and through Service</h1><p>Currently everybody is talking about the terms Digitization, Digital Transformation and Digital B usiness. In this blog I will discuss the impact of digitization on Aftermarket Service in the Industrial Machinery industry. What opportunities arise for Service, how does Service change and improve? Is there a Service 4.0 like the Industry 4.0?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/242dd2fe22cc400942e43db9def52aaf675fba1c.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.forbes.com/sites/brentgleeson/2016/03/24/how-to-analyze-organic-click-through-rate-data-to-boost-seo/</link>
             <guid isPermaLink="false">08e93e3b-4f2f-4870-ab0d-6dabe7a254dc</guid>
             <pubDate>Mon, 28 Mar 2016 16:01:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article><p>The buzz around digital marketing is still mostly about its potential. Converting that potential into revenue is still a work in progress for many consumer-facing companies.</p><img src="https://latestthinking.cognizant.com/content/dam/Cognizant_Dotcom/images/Digital-marketing-codex1672_IG.jpg"></article>]]></description>
-            <link>https://latestthinking.cognizant.com/perspectives/Digital-Marketing-Converting-Potential-into-Reality</link>
-            <guid isPermaLink="false">07f643ae-46e3-42ef-9d31-49d3ab6d56e4</guid>
-            <pubDate>Mon, 28 Mar 2016 00:55:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
