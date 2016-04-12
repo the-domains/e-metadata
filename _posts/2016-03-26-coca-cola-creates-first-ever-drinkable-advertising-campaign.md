@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Dipdrop Branding Solution
-    url: 'https://www.youtube.com/channel/UCO7TsEaIsOM8kRAeTW8crRg'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: en
+starred: false
 keywords:
   - duration
   - views
@@ -21,7 +16,13 @@ keywords:
   - shazaming
   - zero
 description: "\" This is called a Real Branding Campaign \" As ‪#‎coca_cola‬ says, \"NEXT TIME YOU'RE THIRSTY, DRINK AN AD\" A drinkable advertising creates the illusion that you actually taste the campaign and that's why they collaborated with Shazam, helping the audience enjoy a Coke Zero with the help of technology."
-inLanguage: en
+datePublished: '2016-04-12T08:40:52.050Z'
+dateModified: '2016-04-12T08:40:39.840Z'
+author:
+  - name: Dipdrop Branding Solution
+    url: 'https://www.youtube.com/channel/UCO7TsEaIsOM8kRAeTW8crRg'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=IQovoot_ZUM&feature=applinks'
     type: ios
@@ -59,15 +60,16 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=IQovoot_ZUM'
 title: Coca cola Creates First Ever Drinkable Advertising Campaign
-datePublished: '2016-03-26T21:10:08.718Z'
-dateModified: '2016-03-26T21:09:28.980Z'
 sourcePath: _posts/2016-03-26-coca-cola-creates-first-ever-drinkable-advertising-campaign.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+url: coca-cola-creates-first-ever-drinkable-advertising-campaign/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
