@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://feldmancreative.com'
-  name: Feldman Creative
-  favicon: 'http://feldmancreative.com/wp-content/themes/feldman/img/favicon.png'
-  domain: feldmancreative.com
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: en
+starred: false
 keywords:
   - content
   - mission
@@ -18,17 +16,21 @@ keywords:
   - xyz
   - all-important
 description: "Companies that struggle to achieve their goals with content marketing usually don't have documented strategies. In this episode of Content Matters Podcast, Andy and Barry discuss how and why to create an all-important mission statement, which will give your marketing programs the focus it needs to be effective."
-inLanguage: en
+datePublished: '2016-04-12T08:59:45.384Z'
+dateModified: '2016-04-12T08:59:27.784Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://feldmancreative.com/2016/04/the-key-to-planning-an-effective-content-marketing-program-content-matters-podcast-episode-9/'
 title: Planning an Effective Content Marketing Program - Podcast
-datePublished: '2016-04-11T07:30:41.214Z'
-dateModified: '2016-04-11T07:30:08.136Z'
 sourcePath: _posts/2016-04-11-planning-an-effective-content-marketing-program-podcast.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Feldman Creative
+  domain: feldmancreative.com
+  url: 'http://feldmancreative.com'
+  favicon: 'http://feldmancreative.com/wp-content/themes/feldman/img/favicon.png'
+url: planning-an-effective-content-marketing-program-podcast/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
