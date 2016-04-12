@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.1to1media.com'
-  name: 1to1 Media
-  favicon: 'http://www.1to1media.com/favicon.ico'
-  domain: www.1to1media.com
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: en
+starred: false
 keywords:
   - customer
   - journey
@@ -18,17 +16,21 @@ keywords:
   - sorman
   - points
 description: "Engaging with customers today has never been so convoluted. With multiple paths to purchase across myriad channels and devices, understanding the 'when,' 'how,' and 'why' of moving customers from point A to point B has become ever so critical."
-inLanguage: en
+datePublished: '2016-04-12T08:59:17.435Z'
+dateModified: '2016-04-12T08:35:17.746Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.1to1media.com/weblog/2016/04/customer_journey_mapping_defin.html?utm_source=linkedin.com&utm_medium=social&utm_campaign=buffer&utm_content=buffera0606'
 title: Customer Journey Mapping Defined
-datePublished: '2016-04-11T08:14:17.248Z'
-dateModified: '2016-04-11T07:45:25.128Z'
 sourcePath: _posts/2016-04-11-customer-journey-mapping-defined.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: 1to1 Media
+  domain: www.1to1media.com
+  url: 'http://www.1to1media.com'
+  favicon: 'http://www.1to1media.com/favicon.ico'
+url: customer-journey-mapping-defined/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
