@@ -4,13 +4,20 @@
         <description><![CDATA[e-commerce news and technical seo guidelines]]></description>
         <link>http://www.e-metadata.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 05:01:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2016 05:01:18 GMT</lastBuildDate>
         <atom:link href="http://www.e-metadata.eu/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[How one e-commerce giant uses microservices and open source to scale like crazy - TechRepublic]]></title>
             <description><![CDATA[<article><h1>How one e-commerce giant uses microservices and open source to scale like crazy - TechRepublic</h1><p>Google may be able to make a monolithic system work at scale, but you're not Google. And, to get to Google-like scale, you're going to have to transition to a microservices architecture, or you'll crash and burn.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/34936f3f65fd6e1d6f03d7a00a2e9d6d48afe270.jpg"></article>]]></description>
             <link>http://www.techrepublic.com/article/how-one-e-commerce-giant-uses-microservices-and-open-source-to-scale-like-crazy/</link>
             <guid isPermaLink="false">97de8973-4cd3-42a6-9cd8-8db20f4296a2</guid>
+            <pubDate>Wed, 27 Apr 2016 05:01:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The end of the beginning of digital marketing]]></title>
+            <description><![CDATA[<article><h1>The end of the beginning of digital marketing</h1><p>This is the 10th year of our "This Year Next Year Interaction" series. As ever it is written from the perspective of a global media investment management company and for the interest of large advertisers and those of us who work with them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e72f40d8455a619fa809d86e0ec551030207a76e.jpg"></article>]]></description>
+            <link>https://www.linkedin.com/pulse/end-beginning-digital-marketing-rob-norman?trk=v-feed</link>
+            <guid isPermaLink="false">6b618f47-d6e1-4330-9631-3a6fa47c0110</guid>
             <pubDate>Wed, 27 Apr 2016 05:01:15 GMT</pubDate>
         </item>
         <item>
@@ -68,13 +75,6 @@
             <link>http://www.e-metadata.eu/customer-journey-mapping-defined/index.html</link>
             <guid isPermaLink="false">14b2526c-f579-4fab-9623-90a7a0595621</guid>
             <pubDate>Tue, 12 Apr 2016 08:59:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coca cola Creates First Ever Drinkable Advertising Campaign]]></title>
-            <description><![CDATA[<article><h1>Coca cola Creates First Ever Drinkable Advertising Campaign</h1><p>" This is called a Real Branding Campaign " As ‪#‎coca_cola‬ says, "NEXT TIME YOU'RE THIRSTY, DRINK AN AD" A drinkable advertising creates the illusion that you actually taste the campaign and that's why they collaborated with Shazam, helping the audience enjoy a Coke Zero with the help of technology.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e2b5525fc67f1a81385b6127d7d026178ebdc4ec.jpg"></article>]]></description>
-            <link>http://www.e-metadata.eu/coca-cola-creates-first-ever-drinkable-advertising-campaign/index.html</link>
-            <guid isPermaLink="false">f7fa23e5-1a52-4c8b-8adf-66cb7e23962d</guid>
-            <pubDate>Tue, 12 Apr 2016 08:40:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
