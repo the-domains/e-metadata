@@ -4,8 +4,22 @@
         <description><![CDATA[e-commerce news and technical seo guidelines]]></description>
         <link>http://www.e-metadata.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 05:01:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2016 14:16:19 GMT</lastBuildDate>
         <atom:link href="http://www.e-metadata.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Building an agile "hybrid" organization]]></title>
+            <description><![CDATA[<article><h1>Building an agile "hybrid" organization</h1><p>Being ready and prepared for the digital transformation means a major challenge and effort for many companies, as it implies fundamental changes to almost all aspects of a traditional organization. Before we discuss a few basic concepts for an agile organization, let's shortly recap why the topic of "agility" is being discussed so excessively these days.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d3cf423cd48e8a62a13d1207fd012b54b303c183.jpg"></article>]]></description>
+            <link>http://www.strategy-transformation.com/building-an-agile-hybrid-organization/?sthash.y8PMy4yB.mjjo</link>
+            <guid isPermaLink="false">acf822a1-17e2-433b-92b2-cf4ef98152a7</guid>
+            <pubDate>Thu, 05 May 2016 14:15:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SEO 101 - The V9 Version of Google Webmaster Guidelines]]></title>
+            <description><![CDATA[<article><h1>SEO 101 - The V9 Version of Google Webmaster Guidelines</h1><p>We all know there are rules in life - some are stricter than others and some (we are sure) were meant to be broken. This is also true when it comes to your website being ranked on Google. Thus, the Google Webmaster Guidelines were created.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/54eff1983ce0f173ff77dc1a002fd843f37c30cc.jpg"></article>]]></description>
+            <link>https://www.v9seo.com/blog/2016/02/25/seo-101-version-google-webmaster-guidelines/?utm_source=twitter&amp;utm_medium=referral&amp;utm_campaign=V9-twitter</link>
+            <guid isPermaLink="false">309c2439-f944-4a72-af87-e445c5d738b1</guid>
+            <pubDate>Sat, 30 Apr 2016 14:50:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How one e-commerce giant uses microservices and open source to scale like crazy - TechRepublic]]></title>
             <description><![CDATA[<article><h1>How one e-commerce giant uses microservices and open source to scale like crazy - TechRepublic</h1><p>Google may be able to make a monolithic system work at scale, but you're not Google. And, to get to Google-like scale, you're going to have to transition to a microservices architecture, or you'll crash and burn.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/34936f3f65fd6e1d6f03d7a00a2e9d6d48afe270.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://www.e-metadata.eu/updated-google-quality-rater-guidelines-no-more-supplementa/index.html</link>
             <guid isPermaLink="false">1668fe48-b740-4d69-82c8-ea10625568fd</guid>
             <pubDate>Tue, 12 Apr 2016 08:59:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Planning an Effective Content Marketing Program - Podcast]]></title>
-            <description><![CDATA[<article><h1>Planning an Effective Content Marketing Program - Podcast</h1><p>Companies that struggle to achieve their goals with content marketing usually don't have documented strategies. In this episode of Content Matters Podcast, Andy and Barry discuss how and why to create an all-important mission statement, which will give your marketing programs the focus it needs to be effective.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c90f77c64df03c63efb8b7de3fe858ca18f96dcc.jpg"></article>]]></description>
-            <link>http://www.e-metadata.eu/planning-an-effective-content-marketing-program-podcast/index.html</link>
-            <guid isPermaLink="false">abbcffcd-b106-44df-8882-7b4733041ec5</guid>
-            <pubDate>Tue, 12 Apr 2016 08:59:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Customer Journey Mapping Defined]]></title>
-            <description><![CDATA[<article><h1>Customer Journey Mapping Defined</h1><p>Engaging with customers today has never been so convoluted. With multiple paths to purchase across myriad channels and devices, understanding the 'when,' 'how,' and 'why' of moving customers from point A to point B has become ever so critical.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b657f811c4c07e2ea5838d93bc272938f3e0920c.jpg"></article>]]></description>
-            <link>http://www.e-metadata.eu/customer-journey-mapping-defined/index.html</link>
-            <guid isPermaLink="false">14b2526c-f579-4fab-9623-90a7a0595621</guid>
-            <pubDate>Tue, 12 Apr 2016 08:59:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
