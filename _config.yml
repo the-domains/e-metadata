@@ -1,7 +1,18 @@
+layout_spectrum: 0.4799
+typography_spectrum: 0.3501912201754749
+color:
+  brandColors:
+    - '#030303'
+    - '#b4ddef'
+    - '#0e2336'
+    - '#006ea3'
+    - '#5b98c4'
+  brandStrength: 0.1875
+  lightness: 0.8924731
+  saturation: 0.7741935
+  rhythmicContrast: 0.5
 name: e-metadata
 favicon: null
-layout_spectrum: 0.4799
-typography_spectrum: 0
 collections:
   - index:
       path: /
@@ -27,15 +38,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#030303'
-    - '#b4ddef'
-    - '#0e2336'
-    - '#006ea3'
-    - '#5b98c4'
-  brandStrength: 0.1875
-  lightness: 0.8924731
-  saturation: 0.7741935
-  rhythmicContrast: 0.5
 purpose: []
