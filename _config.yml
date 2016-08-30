@@ -1,41 +1,41 @@
-layout_spectrum: 0.4799
-typography_spectrum: 0.3501912201754749
-color:
-  brandColors:
-    - '#030303'
-    - '#b4ddef'
-    - '#0e2336'
-    - '#006ea3'
-    - '#5b98c4'
-  brandStrength: 0.1875
-  lightness: 0.8924731
-  saturation: 0.7741935
-  rhythmicContrast: 0.5
-name: e-metadata
-favicon: null
+title: e-commerce news and technical seo guidelines
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: e-commerce news and technical seo guidelines
+    permalink:
+      path: '/:title/'
+color:
+  saturation: 0.7741935
+  brandStrength: 0.1875
+  rhythmicContrast: 0.5
+  brandColors:
+    - '#030303'
+    - '#b4ddef'
+    - '#0e2336'
+    - '#006ea3'
+    - '#5b98c4'
+  lightness: 0.8924731
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: UA-75482434-1
   facebook: null
-  twitter: null
+favicon: null
+name: e-metadata
 opengraph:
   image: null
   type: null
   appId: null
-purpose: []
+typography_spectrum: 0.3501912201754749
+layout_spectrum: 0.7204301
