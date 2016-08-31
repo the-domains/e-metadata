@@ -27,15 +27,15 @@ cta:
   bucket: null
   version: null
   domain: null
+favicon: null
 analytics:
   twitter: null
   google: UA-75482434-1
   facebook: null
 name: e-metadata
-favicon: null
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.2293907
-layout_spectrum: 0.8763441
+layout_spectrum: 0.6630824
